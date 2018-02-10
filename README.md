@@ -5,7 +5,7 @@ Training took about 129 seconds on a high performace GPU. Consider much longer t
 
 The performance of the LSTM may vary due to the fact that training-trials are randomly drawn from a database.
 
-Accurac- and lossfunctions over 10 epochs in iteration 9:
+Accuracy and lossfunctions over 10 epochs in iteration 9:
 
 
 
