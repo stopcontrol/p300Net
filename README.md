@@ -5,7 +5,7 @@ Training took about 129 seconds on a high performace GPU. Consider seriously ext
 
 The performance of the LSTM may vary due to the fact that training-trials are randomly drawn from a database.
 
-Accuracy and lossfunctions over 10 epochs in iteration 9. The LSTM was trained on 40 P300 training samples and 10 validation samples from whitin the same session.
+Accuracy and lossfunctions over 10 epochs in iteration 9. The LSTM was trained on 40 P300 training samples and 10 validation samples from within the same session.
 
 
 
