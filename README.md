@@ -1,5 +1,5 @@
 # p300Net
-Implementation of a stateful Long Short-Term Memory (LSTM) Network for modeling individual event-related P300 EEG data with R (keras) and google's tensorflow Backend.
+Implementation of a stateful Long Short-Term Memory (LSTM) Network for modeling individual event-related P300 EEG data with R (keras) and google's tensorflow backend.
 
 Training took about 129 seconds on a high performace GPU. Consider seriously extented training periods using average CPUs and serial computing. You can try the ParallelR package if you want to use parallel computing on your CPU.
 
